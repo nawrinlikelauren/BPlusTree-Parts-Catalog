@@ -8,7 +8,7 @@ This project implements a parts catalog system using a B+ Tree data structure in
 - Tracks tree **statistics** on leaf splits, parent splits, leaf fusions, parent fusions, etc. 
 
 ## 3. Demo 
-![Demo Output](demo-output.png)
+![Demo Output](docs/demo-output.png)
 
 ## 4. How to Use
 - Open the project into IntelliJ and run Main.java
