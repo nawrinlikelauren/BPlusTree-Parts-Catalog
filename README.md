@@ -3,9 +3,9 @@
 This project implements a parts catalog system using a B+ Tree data structure in Java to manage and manipulate a dataset of part records. This is an alternative to a traditional database. The primary objective is to ensure efficient data operations as it maintains data integrity while adhering to the B+ Tree's properties. By leveraging the B+ Tree's data storage and retrieval efficiency, the project demonstrates how a database-like system can be constructed using alternative data structures like the B+ Tree and still ensure performance and scalability based in a single-user environment. 
 
 ## 2. Project Highlights 
-- Custom B+ Tree implementation with balanced internal and leaf nodes, fast seach, insert, update and delete operations, sequential traversals, node splitting and merging, etc. 
-- Supports all CRUD operations
-- Tracks tree statistics on leaf splits, parent splits, leaf fusions, parent fusions, etc. 
+- Custom **B+ Tree implementation** with balanced internal and leaf nodes, fast seach, insert, update and delete operations, sequential traversals, node splitting and merging, etc. 
+- Supports all **CRUD** operations
+- Tracks tree **statistics** on leaf splits, parent splits, leaf fusions, parent fusions, etc. 
 
 ## 3. Demo 
 ![Demo Output](demo-output.png)
